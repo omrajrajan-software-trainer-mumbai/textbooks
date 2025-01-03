@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cb08609-ba08-4597-bd15-c20da216ee3f</dc:identifier>
+        <dc:title>Full Stack Web Development</dc:title>
+        <dc:creator opf:file-as="Philip Ackermann" opf:role="aut">Ackermann, Philip;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-14T18:30:00+00:00</dc:date>
+        <dc:description>Full stack web developers are always in demand—do you have the skillset? Between these pages you’ll learn to design websites with CSS, structure them with HTML, and add interactivity with JavaScript. You’ll master the different web protocols, formats, and architectures and see how and when to use APIs, PHP, web services, and other tools and languages. With information on testing, deploying, securing, and optimizing web applications, you’ll get the full frontend and backend instructions you need!&lt;br/&gt;&lt;br/&gt;Highlights include:&lt;br/&gt;&lt;br/&gt;1)	 Frontend programming&lt;br/&gt;2)	 Backend programming&lt;br/&gt;3)	 HTML&lt;br/&gt;4)	 CSS&lt;br/&gt;5)	 JavaScript&lt;br/&gt;6)	 APIs&lt;br/&gt;7)	 Single-page applications&lt;br/&gt;8)	 Web architecture&lt;br/&gt;9)	 Testing&lt;br/&gt;10)	 Deployment&lt;br/&gt;11)	Security&lt;br/&gt;12)	Optimization&lt;br/&gt;</dc:description>
+        <dc:publisher>Rheinwerk Publishing Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">30723404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontend and backend programming—together at last!</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ackermann, Philip;&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2025-01-02T14:02:24+00:00"/>
+        <meta name="calibre:title_sort" content="Full Stack Web Development"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Full Stack Web Development - Ackermann, Philip;.jpg"/>
+    </guide>
+</package>
